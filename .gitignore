@@ -1,0 +1,10 @@
+{
+	"dwClientType": {
+        "Extra": 1,
+        "Mode_Read": true,
+        "Mode_Subtract": true,
+        "Module": "client.dll",
+        "Offset": 0,
+        "Pattern": "A3 ? ? ? ? 8B 41 48"
+    }
+}
